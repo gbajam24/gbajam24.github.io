@@ -15,6 +15,4 @@ evanbowman
 
 ### Sponsors
 
-<a href="https://www.bitmapsoft.co.uk/" target="_blank"><img src="https://img.itch.zone/aW1nLzExNjYxNjM5LnBuZw==/original/kJ8Qv0.png" height="75"></a>
-
-<a href="https://www.zedlabz.com/" target="_blank"><img src="https://img.itch.zone/aW1nLzEyNDMxNTE4LnBuZw==/original/imBchn.png" height="75"></a>
+<a href="https://www.bitmapsoft.co.uk/" target="_blank"><img src="https://img.itch.zone/aW1nLzExNjYxNjM5LnBuZw==/original/kJ8Qv0.png" height="75"></a> <a href="https://www.zedlabz.com/" target="_blank"><img src="https://img.itch.zone/aW1nLzEyNDMxNTE4LnBuZw==/original/imBchn.png" height="75"></a> <img src="https://img.itch.zone/aW1nLzExNjYxNjgyLnBuZw==/original/uvcSPE.png" height="75"></a>
